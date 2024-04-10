@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/sunish.png"),
   imageSize: 375,
   message:
-    "Research and Development Engineer with more than 6 years of experience in software engineering. Involved in architecture design and development of projects from scratch. Interested in Scalability, Serverless, Containers, and Machine learning",
+    "Research and Development Engineer with more than 10 years of experience in software engineering. Involved in architecture design and development of projects from scratch. Interested in Scalability, Serverless, Containers, and Machine learning",
   resume: "",
 };
 
